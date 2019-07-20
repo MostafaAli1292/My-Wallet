@@ -10,9 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var overView: UIView!
+    @IBOutlet weak var SaveButton: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        overView.layer.cornerRadius = 10
+        SaveButton.layer.cornerRadius = 10
     }
 
 

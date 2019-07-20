@@ -1,0 +1,16 @@
+PODS:
+  - UnderLineTextField (2.1.0)
+
+DEPENDENCIES:
+  - UnderLineTextField (~> 2.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - UnderLineTextField
+
+SPEC CHECKSUMS:
+  UnderLineTextField: b3f5307b56962331e30a965e81b79aae2df1de83
+
+PODFILE CHECKSUM: b37333312f791a12a12a3d56cd984beacb3a0dbf
+
+COCOAPODS: 1.6.1
